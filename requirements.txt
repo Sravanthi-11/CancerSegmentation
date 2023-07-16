@@ -75,7 +75,6 @@ tensorboard
 tensorboard-data-server
 tensorflow
 tensorflow-estimator
-tensorflow-macos
 termcolor
 threadpoolctl
 tornado
